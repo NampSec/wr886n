@@ -1,3 +1,6 @@
+#想改配置的用ssh链接后修改(详细见大佬的教程，链接在下面)，我编译的的是超级精简版的
+
+
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
